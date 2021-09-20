@@ -9,7 +9,7 @@ Ansioso para ingressar no mercado para por em prática tudo que aprendi e aprend
 
 # O que estou fazendo
 
-- Desenvolmento minha versão do Notion pelo ElectronJS,
+- Desenvolvendo minha versão do Notion pelo ElectronJS,
 
 - Desenvolvendo componentes para formulário com respostas exportadas para Google Sheets.
 

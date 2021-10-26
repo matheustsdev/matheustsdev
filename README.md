@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Olá, me chamo Matheus Teixeira!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, I'm Matheus Teixeira
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustsdev&layout=compact&langs_count=7&theme=dracula" alt=""  />
 
@@ -7,7 +7,7 @@
 - 🌱 I'm learning React and React Native,
 - 📚 I'm currently learning with Rocketseat,
 - 🔎 I'm looking for my first profisional oportunity in development,
-- 👨‍💻 I'm developing components for forms with export to Google Sheets, 
+- 👨‍💻 I'm developing forms components with export to Google Sheets in React, 
 - 👨‍🦱 Pronouns: Him/His.
 
 <br/>

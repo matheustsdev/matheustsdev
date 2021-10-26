@@ -1,18 +1,13 @@
-# Sobre mim
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Olá, me chamo Matheus Teixeira!
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Olá, me chamo Matheus Teixeira!
+- I'm learning React and React Native,
+- I'm currently learning with Rocketseat,
+- I'm looking for my first profisional oportunity in development,
+- I'm developing components for forms with export to Google Sheets, 
+- Pronouns: Him/His.
 
- <br>
- Estudo por conta própria javascript e seus frameworks, especialmente React e React Native a cerca de 1 ano.
-Ansioso para ingressar no mercado para por em prática tudo que aprendi e aprender ainda mais. <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustsdev&layout=compact&langs_count=7&theme=dracula" alt=""  /><br><br>
 
-# O que estou fazendo
-
-- Desenvolvendo minha versão do Notion pelo ElectronJS,
-
-- Desenvolvendo componentes para formulário com respostas exportadas para Google Sheets.
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustsdev&layout=compact&langs_count=7&theme=dracula" alt=""  />
 
 # Contato
 

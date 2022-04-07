@@ -8,7 +8,6 @@
 - 👨🏽‍🎓 I'm studying computer science at IFCE,
 - 📚 I am currently also studying on the Ignite React track at Rockeatseat,
 - 🔎 I'm looking for my first profisional oportunity in development,
-- 👨‍💻 I'm developing forms components with export to Google Sheets in React, 
 - 👨‍🦱 Pronouns: Him/His.
 
 <br/>

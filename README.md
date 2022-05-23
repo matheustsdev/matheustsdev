@@ -5,9 +5,9 @@
 <br/>
 
 - 🌱 I'm learning ReactJs and NextJs,
-- 👨🏽‍🎓 I'm studying computer science at IFCE,
+- 👨🏽‍🎓 I'm studying computer science college at IFCE and learning a little bit of Python there,
 - 📚 I am currently also studying on the Ignite React track at Rockeatseat,
-- 🔎 I'm looking for my first profisional oportunity in development,
+- 🔎 I'm looking for my first profisional opportunity as developer,
 - 👨‍🦱 Pronouns: Him/His.
 
 <br/>
@@ -28,7 +28,7 @@
 
 ## 
 
-If you wanna know more about me, you can see my curriculum [here](https://drive.google.com/file/d/1P-ly5hWum8ZfnVVme_TobSIjtX5qNFGo/view) or you can connect with me.
+If you wanna know more about me, you can see my curriculum [here](https://drive.google.com/file/d/1jJ6UWriVQx75wfsjOcWH06F8J6Lye4lo/view) or you can connect with me.
 
 ### Connect with me
 

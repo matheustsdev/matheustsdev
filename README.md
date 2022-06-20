@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, I'm Matheus Teixeira
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Matheus Teixeira
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustsdev&layout=compact&langs_count=7&theme=dracula" alt=""  />
 

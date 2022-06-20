@@ -4,9 +4,9 @@
 
 <br/>
 
-- 🌱 I'm learning ReactJs and NextJs,
+- 🌱 I'm learning NodeJs with Rocketseat,
 - 👨🏽‍🎓 I'm studying computer science college at IFCE and learning a little bit of Python there,
-- 📚 I am currently also studying on the Ignite React track at Rockeatseat,
+- 📚 Completed ReactJs Journey on Rocketseat with certificate available [here](https://drive.google.com/file/d/1BBB1BIo0_eRspFbVpRDsBnTQaW5WUNVx/view),
 - 🔎 I'm looking for my first profisional opportunity as developer,
 - 👨‍🦱 Pronouns: Him/His.
 
@@ -32,6 +32,6 @@ If you wanna know more about me, you can see my curriculum [here](https://drive.
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/matheust0105/"><img src="https://img.shields.io/badge/-Linkedin-white?logo=linkedin&logoColor=blue&style=flat" alt="linkedin-logo"/> </a>
+<a href="https://www.linkedin.com/in/matheustsdev/"><img src="https://img.shields.io/badge/-Linkedin-white?logo=linkedin&logoColor=blue&style=flat" alt="linkedin-logo"/> </a>
 <a href="mailto:matheusts.dev@gmail.com" style="margin-left:10px"><img src="https://img.shields.io/badge/-Mail-white?logo=gmail&logoColor=red&style=flat" alt="linkedin-logo"/> </a>
 <br><br><br>

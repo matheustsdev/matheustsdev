@@ -28,7 +28,7 @@
 
 ## 
 
-If you wanna know more about me, you can see my curriculum [here](https://drive.google.com/file/d/1jJ6UWriVQx75wfsjOcWH06F8J6Lye4lo/view) or you can connect with me.
+If you wanna know more about me, you can see my curriculum [here](https://drive.google.com/file/d/1AA2Kio0jpjzAIaHfCAp2cDx_i_Od2EA7/view) or you can connect with me.
 
 ### Connect with me
 

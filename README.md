@@ -4,17 +4,15 @@
 
 <br/>
 
-- 👨‍💻 Actually working as intern of development in TopconSuite,
+- 👨‍💻 Actually working as trainee of development in TopconSuite,
 
-- 🌱 I'm learning NodeJs with Rocketseat,
+- 🌱 I'm imporving my NodeJs with Rocketseat,
 
-- 👨🏽‍🎓 I'm studying computer science college at IFCE and learning a little bit of Python there,
+- 👨🏽‍🎓 I'm studying computer science college at ESTACIO and learning a little bit of Python there,
 
 - 📚 Completed ReactJs Journey on Rocketseat with certificate available [here](https://drive.google.com/file/d/1BBB1BIo0_eRspFbVpRDsBnTQaW5WUNVx/view),
 
-- 🔎 I'm looking for my first profisional opportunity as developer,
-
-- 👨‍🦱 Pronouns: Him/His.
+- 🔎 I'm looking and work hard for personal and professional growth.
 
 <br/>
 <br/>

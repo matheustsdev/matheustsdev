@@ -4,11 +4,11 @@
 
 <br/>
 
-- 👨‍💻 Actually working as trainee of development in TopconSuite,
+- 👨‍💻 Actually working as junior developer in TopconSuite,
 
-- 🌱 I'm imporving my NodeJs with Rocketseat,
+- 🌱 I'm improving my .Net knowledge,
 
-- 👨🏽‍🎓 I'm studying computer science college at ESTACIO and learning a little bit of Python there,
+- 👨🏽‍🎓 I'm studying Software engineering college at ESTACIO and learning a little bit of Python there,
 
 - 📚 Completed ReactJs Journey on Rocketseat with certificate available [here](https://drive.google.com/file/d/1BBB1BIo0_eRspFbVpRDsBnTQaW5WUNVx/view),
 

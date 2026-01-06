@@ -9,7 +9,7 @@
 
 I am a Full-stack Software Engineer with a passion for building scalable web applications and innovative solutions. With experience using **React, TypeScript, .NET, and Node.js**, I am skilled in designing robust APIs, working with cloud infrastructure (Azure), and implementing event-driven systems. I am passionate about delivering clean, maintainable code and thrive on collaborating in cross-functional teams to achieve extraordinary results.
 
-- 👨‍💻 Currently working as a **Software Engineer** at [Topcon](https://www.topcon.com/).
+- 👨‍💻 Currently working as a **Software Engineer** at [TopconSuite](https://topconsuite.com/).
 - 🚀 I'm focused on developing my skills in microservices architecture and distributed systems.
 - 👨🏽‍🎓 Studying for a Bachelor's Degree in **Software Engineering** at Estácio (graduating in 2027).
 

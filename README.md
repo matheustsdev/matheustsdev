@@ -32,7 +32,7 @@
 
 ## 
 
-If you wanna know more about me, you can see my curriculum [here](https://drive.google.com/file/d/1AA2Kio0jpjzAIaHfCAp2cDx_i_Od2EA7/view) or you can connect with me.
+If you wanna know more about me, you can see my curriculum [here](https://drive.google.com/file/d/1IwxXGuwJaknc9T1KAFQeTqQF228N07QB/view) or you can connect with me.
 
 ### Connect with me
 

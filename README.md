@@ -1,41 +1,77 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Matheus Teixeira
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Matheus Teixeira!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustsdev&layout=compact&langs_count=7&theme=dracula" alt=""  />
+<a href="https://www.linkedin.com/in/matheustsdev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:matheusts.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
+---
+
+### 🧑 About Me
+
+I am a Full-stack Software Engineer with a passion for building scalable web applications and innovative solutions. With experience using **React, TypeScript, .NET, and Node.js**, I am skilled in designing robust APIs, working with cloud infrastructure (Azure), and implementing event-driven systems. I am passionate about delivering clean, maintainable code and thrive on collaborating in cross-functional teams to achieve extraordinary results.
+
+- 👨‍💻 Currently working as a **Software Engineer** at [Topcon](https://www.topcon.com/).
+- 🚀 I'm focused on developing my skills in microservices architecture and distributed systems.
+- 👨🏽‍🎓 Studying for a Bachelor's Degree in **Software Engineering** at Estácio (graduating in 2027).
+
+---
+
+### 💼 Work Experience
+
+**Software Engineer @ Topcon** (Remote)
+- Developed scalable and maintainable user interfaces using `React`, `TypeScript`, and `Styled Components`, applying Atomic Design principles.
+- Designed and implemented high-performance APIs and backend services with `Node.js/NestJS` and `.NET`.
+- Worked with `Azure Service Bus` to enable distributed messaging and event-driven architectures.
+
+**Frontend Developer @ Buscaaii** (Remote)
+- Developed scalable user interfaces with `Next.js`, `TypeScript`, and `ChakraUI`, focusing on UX and consistency.
+- Implemented `Supabase` API calls for data manipulation (CRUD) and authorization management.
+
+---
+
+### 🛠️ My Tech Stack
+
+#### Frontend Development
+`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `ChakraUI` `Styled Components`
+
+#### Backend Development
+`Node.js` `NestJS` `.NET (C#)` `TypeScript`
+
+#### Databases & APIs
+`PostgreSQL` `MongoDB` `MySQL` `Supabase` `REST` `GraphQL`
+
+#### Cloud, Infra & Microservices
+`Azure` `Azure Service Bus` `Docker`
+
+---
+<!-- 
+
+### 🚀 My Projects
+
+Aqui você pode adicionar seus principais projetos. Abaixo, um exemplo de como você pode estruturar.
+Remova o comentário e preencha com seus dados.
+
+**Project Name | [Live Demo](link-to-demo)**
 <br/>
-
-- 👨‍💻 Actually working as junior developer in TopconSuite,
-
-- 🌱 I'm improving my .Net knowledge,
-
-- 👨🏽‍🎓 I'm studying Software engineering college at ESTACIO and learning a little bit of Python there,
-
-- 📚 Completed ReactJs Journey on Rocketseat with certificate available [here](https://drive.google.com/file/d/1BBB1BIo0_eRspFbVpRDsBnTQaW5WUNVx/view),
-
-- 🔎 I'm looking and work hard for personal and professional growth.
-
+<img src="link-to-project-gif-or-image" alt="Project Demo" width="600" />
 <br/>
-<br/>
-
-### Languages and Tools:
-
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+A brief description of your project, what it does, the problem it solves, and the technologies you used.
+- **Tech Stack:** `React`, `Node.js`, `PostgreSQL`, etc.
+- **Features:** User authentication, Real-time updates, etc.
+- **[View on GitHub](link-to-repo)**
 
 
+_More projects coming soon..._
 
+---
+-->
+
+### 🎓 Education
+
+- **Bachelor's Degree in Software Engineering** - Estácio (2022 - 2027)
+- **ReactJs Journey** - Rocketseat (2022)
+
+<br>
+
+<p align="center">
+  Thanks for visiting my profile!
 </p>
-
-## 
-
-If you wanna know more about me, you can see my curriculum [here](https://drive.google.com/file/d/1IwxXGuwJaknc9T1KAFQeTqQF228N07QB/view) or you can connect with me.
-
-### Connect with me
-
-<a href="https://www.linkedin.com/in/matheustsdev/"><img src="https://img.shields.io/badge/-Linkedin-white?logo=linkedin&logoColor=blue&style=flat" alt="linkedin-logo"/> </a>
-<a href="mailto:matheusts.dev@gmail.com" style="margin-left:10px"><img src="https://img.shields.io/badge/-Mail-white?logo=gmail&logoColor=red&style=flat" alt="linkedin-logo"/> </a>
-<br><br><br>

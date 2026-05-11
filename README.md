@@ -43,31 +43,10 @@ I am a Full-stack Software Engineer with a passion for building scalable web app
 `Azure` `Azure Service Bus` `Docker`
 
 ---
-<!-- 
-
-### 🚀 My Projects
-
-Aqui você pode adicionar seus principais projetos. Abaixo, um exemplo de como você pode estruturar.
-Remova o comentário e preencha com seus dados.
-
-**Project Name | [Live Demo](link-to-demo)**
-<br/>
-<img src="link-to-project-gif-or-image" alt="Project Demo" width="600" />
-<br/>
-A brief description of your project, what it does, the problem it solves, and the technologies you used.
-- **Tech Stack:** `React`, `Node.js`, `PostgreSQL`, etc.
-- **Features:** User authentication, Real-time updates, etc.
-- **[View on GitHub](link-to-repo)**
-
-
-_More projects coming soon..._
-
----
--->
 
 ### 🎓 Education
 
-- **Bachelor's Degree in Software Engineering** - Estácio (2022 - 2027)
+- **Bachelor's Degree in Systems Analysis and Development** - Estácio (2022 - 2027)
 - **ReactJs Journey** - Rocketseat (2022)
 
 <br>
